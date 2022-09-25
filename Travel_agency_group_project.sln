@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{33D0ACAC-CB61-4152-A07F-08E9ED3BF798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{961B6A51-8269-4135-9607-2B7ED2C05414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel_agency", "Travel_agency\Travel_agency.csproj", "{D6051F8E-699C-46A3-94FC-FCABC3885399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D0ACAC-CB61-4152-A07F-08E9ED3BF798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D0ACAC-CB61-4152-A07F-08E9ED3BF798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D0ACAC-CB61-4152-A07F-08E9ED3BF798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D0ACAC-CB61-4152-A07F-08E9ED3BF798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961B6A51-8269-4135-9607-2B7ED2C05414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961B6A51-8269-4135-9607-2B7ED2C05414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961B6A51-8269-4135-9607-2B7ED2C05414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961B6A51-8269-4135-9607-2B7ED2C05414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6051F8E-699C-46A3-94FC-FCABC3885399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6051F8E-699C-46A3-94FC-FCABC3885399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6051F8E-699C-46A3-94FC-FCABC3885399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6051F8E-699C-46A3-94FC-FCABC3885399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7084476-D68B-4153-9D7D-8445CBA5528D}
+	EndGlobalSection
+EndGlobal
