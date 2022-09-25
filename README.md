@@ -1,2 +1,2 @@
 # travel_agency_project
-Проектът е конзолно приложение, което служи за управление на туристичекса агенция. Всички дестинации, които предлага агенцията се съхраняват в база данни, а приложението служи за добавяне, извличане, променяне и изтриване на дестинации от базата.
+The project is a Console application, which purpose is to manage a tourist agency. All destinations, which are offered by the agency, are kept in a data base. The project has commands for adding, updating, getting and deleting destinations from the base.
